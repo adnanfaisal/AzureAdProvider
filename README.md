@@ -1,2 +1,2 @@
 # AzureAdProvider
-Custom code for ExternalUserBuilder.
+Custom code for Sitecore's ExternalUserBuilder.
